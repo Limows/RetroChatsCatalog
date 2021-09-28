@@ -25,7 +25,7 @@ title: Retro Chats Catalog
 * https://t.me/interactionmuseum - Канал музея Interaction, расположенного в Москве у метро Сокол
 * https://t.me/interactionforflood - Чат канала Interaction
 * https://t.me/museum_computer - Чат Муромского музея компьютеров
-Технические каналы и чаты
+# Технические каналы и чаты
 * https://t.me/fixinshit - Канал Остросюжетный Ремонт товарища Merro
 * https://t.me/brainfuckpc - Телеграм-канал Артема Кашканова, собирающего необычные компьютеры с брейнфаком
 * https://t.me/brainfuckpc_chat - Чат канала Артема Кашканова
